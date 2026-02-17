@@ -24,7 +24,7 @@ Ce projet vise à mesurer et modéliser le confort de jeu des trombonistes en co
 - `/scripts` : scripts d’analyse (Python, Matlab)
 
 ## Liens externes
-OneDrive - https://1drv.ms/f/c/24191AC39A1A5050/Au1Ja5FlC6NHkOZUO4dv3V4?e=RTkXXw
+OneDrive - https://mcgill-my.sharepoint.com/:f:/g/personal/denis_albrecq_mail_mcgill_ca/IgAjElsILypFSZb3-At0vsTZAfXdq0sHi18-mgEKRgJWwMk?e=AV6sqn
 
 ## Avancement
 - État de l’art : 13 articles analysés utiles
