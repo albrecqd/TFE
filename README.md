@@ -18,8 +18,8 @@ Ce projet vise à mesurer et modéliser le confort de jeu des trombonistes en co
 - `/data` : jeux de données brutes
 - `/docs` : documents de suivi (ProgressReport.docx), état de l’art (StateOfArt.docx), etc
 - `/figures` : figures, schémas et illustrations
-- `/library` : articles jugés peu ou pas intéressant
-- `/references` : articles jugés intéressant
+- `/library` : articles non utilisés
+- `/references` : articles utilisés
 - `/results` : résultats, outputs
 - `/scripts` : scripts d’analyse (Python, Matlab)
 
@@ -27,7 +27,7 @@ Ce projet vise à mesurer et modéliser le confort de jeu des trombonistes en co
 OneDrive - https://mcgill-my.sharepoint.com/:f:/g/personal/denis_albrecq_mail_mcgill_ca/IgAjElsILypFSZb3-At0vsTZAfXdq0sHi18-mgEKRgJWwMk?e=AV6sqn
 
 ## Avancement
-- État de l’art : 13 articles analysés utiles
+- État de l’art : ?? articles
 
 ## Instructions pour contributeurs
 - Pour suggestions / corrections : utiliser les issues ou pull requests
