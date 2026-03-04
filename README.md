@@ -27,7 +27,7 @@ Ce projet vise à mesurer et modéliser le confort de jeu des trombonistes en co
 OneDrive - https://mcgill-my.sharepoint.com/:f:/g/personal/denis_albrecq_mail_mcgill_ca/IgAjElsILypFSZb3-At0vsTZAfXdq0sHi18-mgEKRgJWwMk?e=AV6sqn
 
 ## Avancement
-- État de l’art : ?? articles
+- État de l’art : une vingtaine d'articles
 
 ## Instructions pour contributeurs
 - Pour suggestions / corrections : utiliser les issues ou pull requests
